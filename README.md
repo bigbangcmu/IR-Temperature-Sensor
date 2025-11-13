@@ -1,3 +1,5 @@
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/IR%20Thermal%20Temperature/%5B%20Multi%20%5D%20-%20IR%20Temperature%20Sensor.jpg?raw=true)
+
 # IR-Temperature-Sensor
 **The GY-906 MLX90614ESF (BAA/BCC)** is a non-contact infrared temperature sensor that measures the surface temperature of objects or the human body without physical contact. It uses the MLX90614ESF chip from Melexis and communicates via I²C or PWM, making it compatible with Arduino and various microcontrollers. Its small size, low power consumption, and high accuracy make it suitable for both educational and industrial applications.
 
